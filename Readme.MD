@@ -1,5 +1,5 @@
 <!-- Rivison React.js -->
-  Day 02 to 75 hard day challange 
+  Day 02 to 75 hard day challange ✌️❤️
 
     *********These Topics are coverd today***********
 ● JSX
@@ -11,7 +11,7 @@
 ● Functional Components
 ○ Composing Components
 
-
+😊😊😊😊😊😊😊👌
 <!-- jsx -->
 ans--> jsx (javascript xml ) is an external to the javascript language which  also uh to write html like syntax but is not a html simple way we can say something like -
 xml and html likes syntax 
@@ -32,7 +32,7 @@ Ex==
 const heading1=React.createElement("h3",{key:"6"},"hello react js with core fundamatals")
 
 
-
+📝📝📝📝📝📝
 What is babel===>
 babel is a popular tool  used is web development to contverted varsions to javascipt that can run an older versions babel analyzing and transfrarming your code and convert to modern js like Es6 that is main resons what to do babel 
 
@@ -52,4 +52,4 @@ const Heading4=()=>{
        <Vikas/>
          <h1>hello this is the functional componenets</h1>
     </div>)
-}  
+}  😊😊😊😊😊😊😊✌️
